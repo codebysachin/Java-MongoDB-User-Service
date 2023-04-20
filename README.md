@@ -1,5 +1,5 @@
 # User-Service
-User-Service is a repository for User Management Service, where AI Generative Code technology by ChatGPT is used to develop efficient and scalable business logic.
+The User-Service repository is a microservice-based application that provides a User Management Service, built using Java, Spring framework, and MongoDB, a popular NoSQL database. The service offers REST API endpoints for creating, reading, updating, and deleting user entities, with support for secure authentication and authorization features. The codebase is designed to be modular, scalable, and efficient, making use of ChatGPT's AI technology to create lean services that can handle high volumes of traffic.
 
 ## Technology Stack
     . Java 11
