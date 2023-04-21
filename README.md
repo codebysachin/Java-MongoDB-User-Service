@@ -7,8 +7,8 @@ The User-Service repository is a microservice-based application that provides a 
     . Lombok - for generating boilerplate code, such as getters, setters, constructors, and more.
 
 ### Step to run microservice on local machine
-- clone service with ```git clone https://github.com/InnovateXT/User-Service-AGC.git```
-  or ```git clone git@github.com:InnovateXT/User-Service-AGC.git```
+- clone service with ```git clone https://github.com/InnovateXT/User-Service.git```
+  or ```git clone git@github.com:InnovateXT/User-Service.git```
 - build service with
   ```./gradlew clean build```
 - execute service with
