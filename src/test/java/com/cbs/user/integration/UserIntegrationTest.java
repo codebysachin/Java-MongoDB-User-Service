@@ -1,7 +1,7 @@
-package com.innovateXT.user.integration;
+package com.cbs.user.integration;
 
-import com.innovateXT.user.dto.UserDto;
-import com.innovateXT.user.service.UserService;
+import com.cbs.user.dto.UserDto;
+import com.cbs.user.service.UserService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

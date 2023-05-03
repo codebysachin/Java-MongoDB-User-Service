@@ -1,7 +1,7 @@
-package com.innovateXT.user.service.impl;
+package com.cbs.user.service.impl;
 
-import com.innovateXT.user.dto.UserDto;
-import com.innovateXT.user.service.UserService;
+import com.cbs.user.dto.UserDto;
+import com.cbs.user.service.UserService;
 import org.springframework.stereotype.Component;
 
 @Component("UserServiceImpl")
