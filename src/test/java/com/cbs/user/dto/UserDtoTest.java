@@ -1,4 +1,4 @@
-package com.innovateXT.user.dto;
+package com.cbs.user.dto;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

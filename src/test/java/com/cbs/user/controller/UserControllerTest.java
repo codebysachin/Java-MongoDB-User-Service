@@ -1,9 +1,9 @@
-package com.innovateXT.user.controller;
+package com.cbs.user.controller;
 
-import com.innovateXT.user.dto.AddressDto;
-import com.innovateXT.user.dto.ContactDto;
-import com.innovateXT.user.dto.UserDto;
-import com.innovateXT.user.service.UserService;
+import com.cbs.user.dto.AddressDto;
+import com.cbs.user.dto.ContactDto;
+import com.cbs.user.dto.UserDto;
+import com.cbs.user.service.UserService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;

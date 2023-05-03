@@ -1,4 +1,4 @@
-package com.innovateXT.user.dto;
+package com.cbs.user.dto;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

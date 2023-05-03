@@ -1,7 +1,7 @@
-package com.innovateXT.user.controller;
+package com.cbs.user.controller;
 
-import com.innovateXT.user.dto.UserDto;
-import com.innovateXT.user.service.UserService;
+import com.cbs.user.dto.UserDto;
+import com.cbs.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
